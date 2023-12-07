@@ -1,2 +1,2 @@
 # Anomaly
-Anomaly detection for spatial data
+Anomaly detection with RNN, HAMPEL and EMD
